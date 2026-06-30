@@ -17,4 +17,4 @@
 
 
 ## About myself
-I am Kim L. Escobido, i am a 4th year, currently studying BSIT. I am interested on hardaware and software parts of the computer, i will also like to know about networking, game development, and applications. All information here are part of activities and projects
+I am Kim L. Escobido, i am a 4th year student, currently studying BSIT. I am interested on hardaware and software parts of the computer, i will also like to know about networking, game development, and applications. All information here are part of activities and projects
